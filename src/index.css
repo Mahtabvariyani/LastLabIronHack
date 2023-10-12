@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* custom.css */
+/* Styles for the phone card */
+.phone-card {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  max-width: calc(25% - 1rem); /* Set the maximum width for each card to be 25% of the container */
+  margin: 0.5rem; /* Add margin to create gaps between cards */
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding: 1rem;
+  text-align: center; /* Center align text in the card */
+}
+
+.phone-card h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.phone-card img {
+  max-width: 100%; /* Set the image width to 100% of its container */
+  height: 200px; /* Set a fixed height for all images (adjust as needed) */
+  object-fit: contain; /* Maintain aspect ratio and fit within the fixed dimensions */
+}
+
+.phone-card p {
+  color: #555555;
+}
+
+.container {
+  max-width: 100%;
+  padding: 1rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.navbar {
+  background-color: #175f9a; /* Set your desired background color */
+}
+
+.nav-link {
+  color: #ffffff; /* Set the text color to white */
+  text-decoration: none;
+  padding: 0.5rem 1rem; /* Add padding to the links */
+}
+
+.nav-link:hover {
+  background-color: #679ccd; /* Change background color on hover */
+}

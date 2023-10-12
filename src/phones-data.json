@@ -1,0 +1,188 @@
+
+   [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "year": 2021,
+      "price": 799,
+      "image": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.medium_2x.jpg",
+      "description": "The iPhone 13 is Apple's latest flagship smartphone. It features a powerful A15 Bionic chip, stunning Super Retina XDR display, and advanced camera system.",
+      "details": [
+        "Year: 2021",
+        "Price: $799",
+        "Display: 6.1-inch Super Retina XDR",
+        "Processor: A15 Bionic",
+        "Camera: Dual 12MP system"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "year": 2021,
+      "price": 799,
+      "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-75482/SamsungGalaxys215gplus.jpg",
+      "description": "The Samsung Galaxy S21 is a powerful Android flagship smartphone with a versatile camera system and stunning display.",
+      "details": [
+        "Year: 2021",
+        "Price: $799",
+        "Display: 6.2-inch Dynamic AMOLED 2X",
+        "Processor: Exynos 2100",
+        "Camera: Triple 12MP system"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 6",
+      "year": 2021,
+      "price": 699,
+      "image": "https://www.lifewire.com/thmb/L1TJ7UMQPRqoyTQCqUucpOaWCSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixel-6-pro-53794a4b8ab840969a64a7870a11daa6.png",
+      "description": "The Google Pixel 6 is known for its outstanding camera capabilities and stock Android experience.",
+      "details": [
+        "Year: 2021",
+        "Price: $699",
+        "Display: 6.4-inch OLED",
+        "Processor: Google Tensor",
+        "Camera: Dual 50MP system"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "year": 2021,
+      "price": 799,
+      "image": "https://cdn.idealo.com/folder/Product/201168/2/201168220/s1_produktbild_max/oneplus-9-pro-256gb-pine-green.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "year": 2020,
+      "price": 699,
+      "image": "https://www.chinahandys.net/wp-content/uploads/2021/01/xiaomi-mi-11-test/Xiaomi-Mi-11-Vergleich-3.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Sony",
+      "model": "Xperia 1 III",
+      "year": 2021,
+      "price": 1099,
+      "image": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iii-02.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "LG",
+      "model": "Velvet",
+      "year": 2020,
+      "price": 599,
+      "image": "https://example.com/lgvelvet.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Nokia",
+      "model": "9 PureView",
+      "year": 2019,
+      "price": 499,
+      "image": "https://example.com/nokia9pureview.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Moto G Power",
+      "year": 2020,
+      "price": 249,
+      "image": "https://example.com/motogpower.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "year": 2020,
+      "price": 799,
+      "image": "https://example.com/p40pro.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Oppo",
+      "model": "Find X3 Pro",
+      "year": 2021,
+      "price": 899,
+      "image": "https://example.com/findx3pro.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Asus",
+      "model": "Zenfone 8",
+      "year": 2021,
+      "price": 699,
+      "image": "https://example.com/zenfone8.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "year": 2021,
+      "price": 799,
+      "image": "https://example.com/legionphoneduel2.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Realme",
+      "model": "GT Master Edition",
+      "year": 2021,
+      "price": 349,
+      "image": "https://example.com/gtmasteredition.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Vivo",
+      "model": "iQOO 7",
+      "year": 2021,
+      "price": 499,
+      "image": "https://example.com/iqoo7.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "ZTE",
+      "model": "Axon 30 Ultra",
+      "year": 2021,
+      "price": 749,
+      "image": "https://example.com/axon30ultra.jpg"
+    },
+    {
+      "id": 17,
+      "brand": "BlackBerry",
+      "model": "KEY2",
+      "year": 2018,
+      "price": 649,
+      "image": "https://example.com/key2.jpg"
+    },
+    {
+      "id": 18,
+      "brand": "Cat",
+      "model": "S62 Pro",
+      "year": 2020,
+      "price": 649,
+      "image": "https://example.com/s62pro.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "Fairphone",
+      "model": "4",
+      "year": 2020,
+      "price": 549,
+      "image": "https://example.com/fairphone4.jpg"
+    },
+    {
+      "id": 20,
+      "brand": "Palm",
+      "model": "Palm Phone",
+      "year": 2018,
+      "price": 349,
+      "image": "https://example.com/palmphone.jpg"
+    }
+  ]
+
